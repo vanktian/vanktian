@@ -4,8 +4,8 @@ I'm a **Firmware Engineer** working on embedded software, printer scanning syste
 
 ## Professional Experience:  
 
-[![Stack](https://skillicons.dev/icons?i=c,cpp,python,rust,cmake,linux,ubuntu,bash,vim,azure,git,gitlab,docker,tensorflow)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=c,cpp,python,rust,cmake,linux,bash,azure,git,gitlab,tensorflow)](https://skillicons.dev)
 
 ## Additional Technologies & Tools (Academic and Personal Experience):
 
-[![Stack2](https://skillicons.dev/icons?i=java,cs,dotnet,js,ts,angular,mongodb,sqlite,arduino,raspberrypi)](https://skillicons.dev)
+[![Stack2](https://skillicons.dev/icons?i=java,cs,dotnet,js,ts,angular,mongodb,sqlite,arduino,raspberrypi,docker)](https://skillicons.dev)
